@@ -54,7 +54,7 @@ The dataset used in this project is already included in the repository under the
 To explore or customize the dashboard:
 
 1. Download the `.pbix` file from the repository.
-2. Open it in **Power BI Desktop** (Windows only).
+2. Open it in **Power BI Desktop** (Windows only) or **Power BI WEB** (for MacOS).
 3. Review and interact with visuals or connect your own dataset.
 
 ---
